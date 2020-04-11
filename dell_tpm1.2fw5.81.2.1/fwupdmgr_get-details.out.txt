@@ -1,0 +1,56 @@
+H170M-HD3 DDR3
+│
+└─Unknown Device:
+  │   Description:         Updating the system firmware improves performance.
+  │   GUIDs:               2dddcf05-47bd-53be-9bd6-8633c162b8c5
+  │                        f6e202b2-73bf-519a-9b15-1918b8fa82c5
+  │                        aad015ec-26bd-5297-a0c7-b1e2a47cc8e7
+  │                        5e9cb275-bb36-5372-9afc-87c1335f84a6
+  │                        58dde259-f0f9-582b-8a3d-6b401b0ac4c0
+  │                        0e623ac8-5867-551a-b094-db9d1db4389f
+  │                        b2432fd8-8ab5-5346-907b-aa459bcfd3a9
+  │                        bc4c153b-7398-538e-b182-ed3da1108b69
+  │                        2b764d92-8a21-54f0-a163-81459e644540
+  │                        9f18e315-6177-5761-87bb-32f6b9cd7de4
+  │                        b0fadd9c-013d-5c86-9e33-ba8b74e83b82
+  │                        5ac47548-e32a-54d8-8788-519335d8ae01
+  │                        52a6f885-b7bc-58e0-b8ec-0e0d8170bb0a
+  │                        886d42b8-fb44-5614-99a5-3901745357e4
+  │                        403b8d78-84b9-5634-9087-b42090499bd3
+  │                        b2088ba1-51ae-514e-8f0a-64756c6e4ffc
+  │                        057c9e26-7e99-5afd-b128-93d91cc0e957
+  │                        f4bbff03-7ff5-5e38-a0dc-2a7b7b2d5bb4
+  │                        9055a777-a92f-55da-8d34-6614d8f9df92
+  │                        d433959e-03ca-524b-92b7-5022eff81a31
+  │                        f9bdd338-b410-5e73-902d-7b6e4694bb56
+  │                        f06e62b7-7039-5d5d-9c65-f7fccacbafbf
+  │                        bc5450c3-c014-5551-b642-b0703f7ad8a4
+  │                        a106730d-d3ff-5369-b79b-6d84f28cbf52
+  │                        64fc7cef-bddd-56c5-8143-3a31617e3db5
+  │                        e9df3399-749e-5e78-bad8-32766cb848c0
+  │                        8e5afbc9-decd-55ed-b6d2-0e5240f88bd4
+  │                        ffcaef00-b480-5014-be2b-635e6c6f6e56
+  │                        225ef49f-e6f8-569c-9cf4-3b140cc9175b
+  │                        16bda90e-f82f-5a00-b001-bf7a71b1ed0d
+  │                        13e484c3-e6d1-510d-9f5d-4e65127f996d
+  │                        25bffbc3-98fd-57fc-891b-328744dfac2d
+  │                        7fc19714-8a9b-5a73-b96b-803a3e6b3dfa
+  │                        e1c76b8c-565f-507e-9186-397a83cc4346
+  │                        6037bb38-64fc-5770-80b1-e1ed8c6fbdb3
+  │                        1e64d0c3-87c6-5318-afa3-353052227664
+  │                        a4bd4e83-0f4e-5c6c-a9ba-177ee33980d2
+  │                        c5e6d7ef-4270-54bf-af0f-8b8ef2a561e6
+  │                        61c84b2d-1924-5867-91e2-63ae6a4373af
+  │                        08aa7676-3cc0-528a-ab12-32500bab2aff
+  │                        6f948839-4a1c-515a-957f-c6e1bd93f992
+  │   Device Flags:        • Supported on remote server
+  │ 
+  └─TPM 1.2 Update:
+        New version:       0x5510201
+        Remote ID:         lvfs
+        Summary:           Firmware for the Dell TPM 1.2
+        Licence:           Proprietary
+        Size:              554.9 kB
+        Vendor:            Dell Inc.
+        Flags:             trusted-payload
+      
